@@ -5,15 +5,13 @@
 </head>
 <body>
     <h2 align="center"> <strong> Minhajul Islam </strong> </h2>
-    <p>Currently studying CS at Daffodil International University. Aspiring tech enthusiast eager to explore software development, AI, data analytics, machine learning, and modern web technologies.</p>
+    <p>Currently studying CS at Daffodil International University. Aspiring tech enthusiast eager to explore software development, AI, data analytics, machine learning, and modern web technologies.</p><br>
 
-    
-
-
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-minhaj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
  ##    
-<div class="left-align">
+<div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -45,11 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-
-
-
-
 
 
 
