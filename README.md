@@ -4,8 +4,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2 class="big-text" style="text-align: center;">Minhajul Islam</h2>
-    <p>Currently studying CS at Daffodil International University. Aspiring tech enthusiast eager to explore software development, AI, data analytics, machiene learning, and modern web technologies.</p>
+    <h2 align="center"> <strong> Minhajul Islam </strong> </h2>
+    <p>Currently studying CS at Daffodil International University. Aspiring tech enthusiast eager to explore software development, AI, data analytics, machine learning, and modern web technologies.</p>
 
     
 
