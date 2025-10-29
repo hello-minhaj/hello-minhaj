@@ -6,7 +6,7 @@
 <body>
     <h2 align="center"> <strong> Minhajul Islam </strong> </h2>
     <p>Currently studying CS at Daffodil International University.<br> 
-        <Aspiring AI/ML enthusiast.<br>
+        AI/ML enthusiast.<br>
         Passionate about ML, Deep Learning, NLP, ANN and Computer Vision.<br>
         Currently engaged in research work to deepen knowledge and skills.
     </p><br>
