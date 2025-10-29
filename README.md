@@ -5,7 +5,11 @@
 </head>
 <body>
     <h2 align="center"> <strong> Minhajul Islam </strong> </h2>
-    <p>Currently studying CS at Daffodil International University. Aspiring AI/ML enthusiast eager to explore software development, machine learning, deep learning and modern web technologies.</p><br>
+    <p>Currently studying CS at Daffodil International University.<br> 
+        Aspiring AI/ML enthusiast.<br>
+        Passionate about ML, Deep Learning, NLP, ANN, and Computer Vision.<br>
+        Currently engaged in research work to deepen knowledge and skills.
+    </p><br>
 
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-minhaj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
