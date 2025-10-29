@@ -6,8 +6,8 @@
 <body>
     <h2 align="center"> <strong> Minhajul Islam </strong> </h2>
     <p>Currently studying CS at Daffodil International University.<br> 
-        <Aspiring <span style="background-color: #ff0; font-weight: bold;">AI/ML enthusiast.<br>
-        Passionate about <span style="background-color: #ff0; font-weight: bold;">ML, <span style="background-color: #ff0; font-weight: bold;">Deep Learning, <span style="background-color: #ff0; font-weight: bold;">NLP, <span style="background-color: #ff0; font-weight: bold;">ANN, and <span style="background-color: #ff0; font-weight: bold;">Computer Vision.<br>
+        <Aspiring <span style="background-color: #ff0; font-weight: bold;"></span> AI/ML enthusiast.<br>
+        Passionate about <span style="background-color: #ff0; font-weight: bold;"></span> ML, <span style="background-color: #ff0; font-weight: bold;"></span> Deep Learning, <span style="background-color: #ff0; font-weight: bold;"></span> NLP, <span style="background-color: #ff0; font-weight: bold;"></span> ANN, and <span style="background-color: #ff0; font-weight: bold;"></span> Computer Vision.<br>
         Currently engaged in <span style="background-color: #ff0; font-weight: bold;">research work to deepen knowledge and skills.
     </p><br>
 
