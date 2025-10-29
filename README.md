@@ -6,9 +6,9 @@
 <body>
     <h2 align="center"> <strong> Minhajul Islam </strong> </h2>
     <p>Currently studying CS at Daffodil International University.<br> 
-        <Aspiring <span style="background-color: #ff0; font-weight: bold;"></span> AI/ML enthusiast.<br>
-        Passionate about <span style="background-color: #ff0; font-weight: bold;"></span> ML, <span style="background-color: #ff0; font-weight: bold;"></span> Deep Learning, <span style="background-color: #ff0; font-weight: bold;"></span> NLP, <span style="background-color: #ff0; font-weight: bold;"></span> ANN, and <span style="background-color: #ff0; font-weight: bold;"></span> Computer Vision.<br>
-        Currently engaged in <span style="background-color: #ff0; font-weight: bold;">research work to deepen knowledge and skills.
+        <Aspiring AI/ML enthusiast.<br>
+        Passionate about ML, Deep Learning, NLP, ANN and Computer Vision.<br>
+        Currently engaged in research work to deepen knowledge and skills.
     </p><br>
 
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-minhaj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
