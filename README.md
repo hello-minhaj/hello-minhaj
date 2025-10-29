@@ -54,6 +54,10 @@
 ### Connections    
 <div class="left-align">
 
+  <a href="https://www.linkedin.com/in/hellominhaj/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" height="35" alt="linkedIn logo"  />
+  </a>
+  
   <a href="mailto:hellominhajulislam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
